@@ -1,0 +1,35 @@
+_repo: London-street-games_74350
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Douglas, Norman
+    aliases:
+    - Douglass, George Norman
+    - Douglass, Norman
+    - Douglas, George Norman
+    birthdate: 1868
+    deathdate: 1952
+    gutenberg_agent_id: '1484'
+    url: http://www.gutenberg.org/2009/agents/1484
+    wikipedia: https://en.wikipedia.org/wiki/Norman_Douglas
+description: ''
+gutenberg_issued: '2024-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74350'
+language: en
+pgterms:marc904: https://archive.org/details/londonstreetgame00doug/page/n7/mode/2up
+pgterms:marc905: 20231126152052douglas
+pgterms:marc906: '1916'
+pgterms:marc907: gb
+production_note: Carla Foust, Gísli Valgeirsson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bThe St. Catherine Press, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: London street games
+url: http://www.gutenberg.org/ebooks/74350
